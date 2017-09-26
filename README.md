@@ -6,31 +6,31 @@ http://www.turingfinance.com/computational-investing-with-python-week-one/ for b
 
 ## risk definitions  
 
-vol  
-beta  
-expected shortfall  
-lower partial moments  
-drawdowns
+Vol  
+Beta  
+Expected shortfall  
+Lower partial moments  
+Drawdowns
 
 ## measures of risk-adjusted returns  
 
 ### based on vol:  
-treynor ratio  
-sharpe ratio  
-information ratio  
-modigliani ratio  
+Treynor ratio  
+Sharpe ratio  
+Information ratio  
+Modigliani ratio  
 
 
 ### based on VaR:
-excess return on VaR  
-conditional Sharpe ratio  
+Excess return on VaR  
+Conditional Sharpe ratio  
 
 ### based on partial moments:
-omega ratio
+Omega ratio
 Sortino ratio
-upside-potential ratio
+Upside-potential ratio
 
 ### based on drawdown risk:
-Calmar ratio
+Calmar ratio  
 Sterling ratio
 
