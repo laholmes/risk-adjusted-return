@@ -26,9 +26,9 @@ Excess return on VaR
 Conditional Sharpe ratio  
 
 ### based on partial moments:
-Omega ratio
-Sortino ratio
-Upside-potential ratio
+Omega ratio  
+Sortino ratio  
+Upside-potential ratio  
 
 ### based on drawdown risk:
 Calmar ratio  
